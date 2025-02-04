@@ -39,6 +39,8 @@
         <p>With advancements in cloud computing, containerization, and automation, modern web applications are now more scalable, secure, and efficient than ever.</p>
         <p>I just completed a <span class="highlight">Java web application</span> project using <span class="highlight">Maven, AWS EC2, and VS Code</span>! 🌍💡</p>
         <p>Stay tuned for more exciting projects. Let's keep innovating! 💻✨</p>
+        <p>If you see this line in Github, that means your latest changes are getting pushed to your cloud repo :o</p>
+
     </div>
 
 </body>
